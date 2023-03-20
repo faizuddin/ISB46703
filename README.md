@@ -1,2 +1,2 @@
 # ISB46703
-Codes used in Principles of Artificial Intelligence
+Python notebooks used in Principles of Artificial Intelligence
